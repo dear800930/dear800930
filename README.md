@@ -1,4 +1,4 @@
-### Hi there 👋 I am currently studying Javascript and Pythone. You can contact me through de.ar800930@gmail.com
+### Hi there 👋 I am currently studying Javascript and Python. You can contact me through de.ar800930@gmail.com
 
 <!--
 **dear800930/dear800930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
